@@ -9,6 +9,8 @@
   "author": "Lakshan Rukantha <64830641+LakshanRukantha@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
     "nodemon": "^3.0.1",
     "winston": "^3.10.0"
   }
