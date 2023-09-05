@@ -1,0 +1,14 @@
+{
+  "name": "first-discord-bot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": "https://github.com/LakshanRukantha/first-discord-bot.git",
+  "author": "Lakshan Rukantha <64830641+LakshanRukantha@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
