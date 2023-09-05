@@ -9,6 +9,7 @@
   "author": "Lakshan Rukantha <64830641+LakshanRukantha@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
-    "nodemon": "^3.0.1"
+    "nodemon": "^3.0.1",
+    "winston": "^3.10.0"
   }
 }
